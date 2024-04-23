@@ -21,7 +21,7 @@ Welcome to the Event 360 repository! This website represent a event management w
 
 To get started with Event 360:
 
-1. Clone this repository: `git clone https://github.com/programming-hero-web-course1/l2-b2-assignment-5-frontend-mehedii-h03.git`
+1. Clone this repository: `git clone https://github.com/mehedii-h03/event-360/tree/main/event-360-frontend`
 
 2. Navigate to the project directory: `cd event-360`
 
